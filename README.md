@@ -4,7 +4,9 @@ Example Input & Output:
 
   ./HexToBin.sh 0xC1F8B9E 12 12 4 
   
-  Usage: <Hex Address - Hex Digits Only> <tag> <index> <offset> <associativity>
+  Usage: <Hex Address - Hex Digits Only> <tag> ...
+  ... <index> <offset> <associativity>
+  
   
   ./HexToBin.sh 0xC1F8B93 12 12 4 2
   
